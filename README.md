@@ -1,4 +1,4 @@
-### POC---Fetch 
+# POC---Fetch 
 
 Este projeto demonstra o uso da Fetch API em JavaScript para realizar requisições HTTP e manipular respostas de forma assíncrona. O exemplo faz uma requisição para uma API pública e exibe uma lista de usuários.
 
